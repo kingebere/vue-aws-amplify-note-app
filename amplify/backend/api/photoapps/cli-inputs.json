@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "photoapps",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\DIKE GOODLUCK\\Downloads\\aws-vue\\photoapp\\amplify\\backend\\api\\photoapps\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authphotoappsb9d04495"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AWS_IAM"
+      }
+    ],
+    "conflictResolution": {}
+  }
+}

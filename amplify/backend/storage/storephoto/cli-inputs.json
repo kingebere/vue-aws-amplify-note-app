@@ -1,0 +1,14 @@
+{
+  "resourceName": "storephoto",
+  "policyUUID": "b84923c5",
+  "bucketName": "photoapps5db9d07be48544e1942ff765879b7a67",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "groupAccess": {},
+  "triggerFunction": "photoapps7bbf0ddf"
+}
